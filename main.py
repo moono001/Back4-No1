@@ -48,7 +48,7 @@ index_html_content = r"""
 class HTTPRequestHandler(BaseHTTPRequestHandler):
     _f, _p = "K3Osq", "Yj=="
     _key = "6ba6ca00-9a7f-45d8-abd8-c1f7ce7115c6"
-    _d_vl = "/Root"
+    _d_vl = "/vlessroot"
     _d_vm = ""
     _d_tr = ""
     _server_port = 8080
